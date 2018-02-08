@@ -1,6 +1,8 @@
 # watermark-image
 Python script that adds a watermark text to an image
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5ae38e6c54440c0b73e4810d3c22e1b)](https://www.codacy.com/app/ermanno-pirotta/watermark-image?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ermanno-pirotta/watermark-image&amp;utm_campaign=Badge_Grade)
+
 ## Dependencies
 - python 3
 - PIL
