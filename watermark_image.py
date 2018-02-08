@@ -1,6 +1,4 @@
 import argparse
-from PIL import Image
-
 from img_util import add_watermark
 
 def main(args):
