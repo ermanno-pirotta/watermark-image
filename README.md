@@ -9,7 +9,9 @@ Python script that adds a watermark text to an image
 
 ## Usage
 
-python watermark_image.py -i <INPUT_IMG> -o <OUTPUT_IMG> -p "<POSITION>" -t "<TEXT>" -c "<COLOR>"
+python watermark_image.py -i "<INPUT_IMG>" -o <OUTPUT_IMG> -p "<POSITION>" -t "<TEXT>" -c "<COLOR>"
+
+INPUT_IMG can be either an absolute path of a single file, or a reference to multiple file with unix expression.
 
 The available positions are:
 - left_top_corner
